@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "65N8835A5C.ru.mosreg.uslugi.mobile.beta",
+            "paths": ["*"]
+        }]
+    }
+}
