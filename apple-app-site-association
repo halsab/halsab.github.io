@@ -5,7 +5,7 @@
         "appID": "65N8835A5C.ru.mosreg.uslugi.mobile.beta",
         "components": [
           {
-            "/": "https://halsab.github.io/*"
+            "/": "https://halsab.github.io/prod/*"
           }
         ]
       }
