@@ -1,12 +1,19 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "65N8835A5C.ru.mosreg.uslugi.mobile.beta",
-        "paths": [
-          "/mobileqr/mob/claims/*",
-          "/claims/*"
+        "appIDs": [
+          "65N8835A5C.ru.mosreg.uslugi.mobile.beta"
+        ],
+        "components": [
+          {
+            "/": "/mobileqr/mob/claims/*",
+            "comment": "Matches any URL with a path that starts with /mobileqr/mob/claims/."
+          },
+          {
+            "/": "/claims/*",
+            "comment": "Matches any URL with a path that starts with /claims/."
+          }
         ]
       }
     ]
