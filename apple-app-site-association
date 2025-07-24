@@ -17,6 +17,10 @@
           {
             "/": "/construction/*",
             "comment": "Matches any URL with a path that starts with /construction/."
+          },
+          {
+            "/": "/ticket/*",
+            "comment": "Matches any URL with a path that starts with /ticket/."
           }
         ]
       }
