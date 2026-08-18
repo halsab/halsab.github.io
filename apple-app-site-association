@@ -8,19 +8,23 @@
         "components": [
           {
             "/": "/mobileqr/mob/claims/*",
-            "comment": "Matches any URL with a path that starts with /mobileqr/mob/claims/."
+            "comment": "Matches any URL with a path that starts with /mobileqr/mob/claims."
           },
           {
             "/": "/claims/*",
-            "comment": "Matches any URL with a path that starts with /claims/."
+            "comment": "Matches any URL with a path that starts with /claims."
           },
           {
             "/": "/construction/*",
-            "comment": "Matches any URL with a path that starts with /construction/."
+            "comment": "Matches any URL with a path that starts with /construction."
           },
           {
             "/": "/ticket/*",
-            "comment": "Matches any URL with a path that starts with /ticket/."
+            "comment": "Matches any URL with a path that starts with /ticket."
+          },
+          {
+            "/": "/realty/*",
+            "comment": "Matches any URL with a path that starts with /realty."
           }
         ]
       }
